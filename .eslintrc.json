@@ -27,5 +27,15 @@
         // allow jsx syntax in js files (for next.js project)
        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx", ".ts"] }],
        "react/prop-types": "off"
+      },
+      
+        
+        "eslint.validate": [
+          "javascript",
+          "javascriptreact",
+          "typescript",
+          "typescriptreact"
+        ]
       }
-}
+    
+
