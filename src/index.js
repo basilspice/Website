@@ -9,4 +9,3 @@ render(
   </ThemeProvider>,
   document.getElementById('root')
 )
-a
