@@ -1,6 +1,6 @@
 const header = {
     // all the properties are optional - can be left empty or deleted
-    homepage: 'https://basilspice.github.io',
+    homepage: 'https://basilspice.github.io/Website/',
     title: 'BB',
   }
   
@@ -49,7 +49,7 @@ const header = {
         'A Full-Stack Mobile App allowing Users to get a feed of posts, edit posts, upload new posts with images, user auth',
       stack: ['SASS', 'TypeScript', 'React'],
       sourceCode: 'https://github.com/basilspice/TheSpot',
-      livePreview: 'https://expo.dev/@basilspice/projects/TheSpot',
+      livePreview: 'https://expo.dev/@basilspice/projects/TheSpot'
     },
   ]
   
