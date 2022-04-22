@@ -20,7 +20,7 @@ const header = {
   const projects = [
     // projects section
     {
-      name: 'Portfolio V1',
+      name: 'Portfolio',
       description:
         'My first ever attempt at building a webpage. I created this page using just HTML and JS after having only been using the Languages for about 3 weeks',
       stack: ['HTML', 'JS'],
