@@ -12,7 +12,7 @@ const about = {
   //something about working with hands and enjoying using that and translating it to doign kinda the same thing but with tech
     'I bring a unique and different perspective to logical and human problems. Years of face to face interactions have sculpted my understanding of people, as well as my approach to logical solutions. Having worked with a wide variety of backgrounds, I am able to empathize and grow with my soft and hard skills, no matter the environment . ',
   resume:
-    'https://docs.google.com/document/d/1YuefXejQH4ke0fcSy_GA4891O7DJ3NDwWfiFDiEbvfo/edit?usp=sharing',
+    'https://docs.google.com/document/d/1NPR6sz_GFbA7uH7jGNp5mHj_zes-eIwf/edit?usp=sharing&ouid=108278151473626848958&rtpof=true&sd=true',
   social: {
     linkedin: 'https://www.linkedin.com/in/basil-breton/',
     github: 'https://github.com/basilspice',
