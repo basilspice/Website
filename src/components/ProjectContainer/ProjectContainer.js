@@ -1,6 +1,8 @@
 import uniqid from 'uniqid'
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LaunchIcon from '@material-ui/icons/Launch'
+import AndroidIcon from '@material-ui/icons/Android'
+import AppleIcon from '@material-ui/icons/Apple'
 import './ProjectContainer.css'
 
 const ProjectContainer = ({ project }) => (
@@ -38,7 +40,29 @@ const ProjectContainer = ({ project }) => (
       >
         <LaunchIcon />
       </a>
+      
     )}
+    {project.google && (
+      <a
+        href={project.google}
+        aria-label='google play store'
+        className='link link--icon'
+        target="_blank" rel="noreferrer"
+      >
+        <AndroidIcon />
+      </a>
+    )}
+    {project.apple && (
+      <a
+        href={project.apple}
+        aria-label='apple app store'
+        className='link link--icon'
+        target="_blank" rel="noreferrer"
+      >
+        <AppleIcon />
+      </a>
+    )}
+    
   </div>
 )
 
