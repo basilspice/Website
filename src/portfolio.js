@@ -9,11 +9,10 @@ const about = {
   name: 'Basil Breton',
   role: 'Full-Stack Developer',
   description:
-  //something about working with hands and enjoying using that and translating it to doign kinda the same thing but with tech
+    //something about working with hands and enjoying using that and translating it to doign kinda the same thing but with tech
 
   "Hello! I'm Basil, a professional with a diverse journey that spans IT, bicycle mechanics, and now, software engineering. In my earlier career, I navigated the complexities of Information Technology, honing my problem-solving skills and code expertise. Seeking a hands-on experience, I transitioned to the world of bicycle mechanics, where precision and craftsmanship took center stage. Today, as a Software Engineer, I bring a unique blend of technical acumen and practical know-how. Let's connect and explore the exciting intersections of technology and craftsmanship!",
-    resume:
-
+  resume:
     'https://docs.google.com/document/d/1NPR6sz_GFbA7uH7jGNp5mHj_zes-eIwf/edit?usp=sharing&ouid=108278151473626848958&rtpof=true&sd=true',
   social: {
     linkedin: 'https://www.linkedin.com/in/basil-breton/',
@@ -30,7 +29,8 @@ const projects = [
     stack: ['Next', 'React-Native'],
     sourceCode: 'https://github.com/basilspice/right-up',
     livePreview: 'https://right-up.vercel.app',
-    google: 'https://play.google.com/store/apps/details?id=com.basilspice.rightup',
+    google:
+      'https://play.google.com/store/apps/details?id=com.basilspice.rightup',
     apple: 'https://apps.apple.com/us/app/right-up/id6476583436',
   },
   {
@@ -45,14 +45,14 @@ const projects = [
     name: 'Deliveroo Clone',
     description:
       'A replica of the Deliveroo app (similiar to Uber Eats). Select a restaurant from the list of featured restaurants. A menu is loaded with dishes according to the selected restaurant. Once you have selected the dishes you want to order, the delivery screen will calculate the subtotal, add tax and delivery fee and give you your final total. Final screen will show a map with the location of the selected restaurant',
-    stack: ['React-Native', 'Sanity','Redux', 'TailwindCSS'],
+    stack: ['React-Native', 'Sanity', 'Redux', 'TailwindCSS'],
     sourceCode: 'https://github.com/basilspice/deliveroo-clone',
     livePreview: 'https://github.com/basilspice/deliveroo-clone',
   },
   {
     name: 'Uber Clone',
     description:
-    'A clone of the client side Uber app. User wil pick their Starting and Endpoint. Different prices will be calculated depending on what "level" of service you want',
+      'A clone of the client side Uber app. User wil pick their Starting and Endpoint. Different prices will be calculated depending on what "level" of service you want',
     stack: ['React-Native', 'TailwindCSS'],
     sourceCode: 'https://github.com/basilspice/uber-clone',
     livePreview: 'https://github.com/basilspice/uber-clone',
@@ -60,7 +60,7 @@ const projects = [
   {
     name: 'Game Hub',
     description:
-    'A react app using typescript that allows users to browse different games. Allow Users to search for games based off of; platform, rating, genre.',
+      'A react app using typescript that allows users to browse different games. Allow Users to search for games based off of; platform, rating, genre.',
     stack: ['React-Native', 'TailwindCSS'],
     sourceCode: 'https://github.com/basilspice/uber-clone',
     livePreview: 'https://github.com/basilspice/uber-clone',
@@ -72,7 +72,8 @@ const projects = [
     stack: ['React', 'React-Native'],
     sourceCode: 'https://github.com/basilspice/TheSpot',
     livePreview: 'https://expo.dev/@basilspice/projects/TheSpot',
-    google: 'https://play.google.com/store/apps/details?id=com.basilspice.thespot'
+    google:
+      'https://play.google.com/store/apps/details?id=com.basilspice.thespot',
   },
   {
     name: 'Hey, Neighbour',
@@ -95,7 +96,7 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  
+
   'JavaScript',
   'React',
   'React-Native',
@@ -107,7 +108,7 @@ const skills = [
   'Vue',
   'Web3',
   'Moralis',
-  'TailwindCSS'
+  'TailwindCSS',
 ]
 
 const contact = {
