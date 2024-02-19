@@ -10,6 +10,7 @@ const about = {
   role: 'Full-Stack Developer',
   description:
   //something about working with hands and enjoying using that and translating it to doign kinda the same thing but with tech
+<<<<<<< HEAD
     '🚴‍♂️ Bicycle Enthusiast Turned Software Engineer 🖥️
 
 Hello! I'm Basil Breton, a passionate individual who has traversed the dynamic landscapes of both the tech world and the world of bicycle mechanics. My professional journey is a story of transformation, resilience, and a deep commitment to continuous learning.
@@ -28,6 +29,10 @@ Whether you're interested in discussing the latest tech trends, sharing cycling 
 
 Thank you for visiting my profile. Let's ride the waves of innovation together! ',
   resume:
+=======
+  "Hello! I'm Basil, a professional with a diverse journey that spans IT, bicycle mechanics, and now, software engineering. In my earlier career, I navigated the complexities of Information Technology, honing my problem-solving skills and code expertise. Seeking a hands-on experience, I transitioned to the world of bicycle mechanics, where precision and craftsmanship took center stage. Today, as a Software Engineer, I bring a unique blend of technical acumen and practical know-how. Let's connect and explore the exciting intersections of technology and craftsmanship!",
+    resume:
+>>>>>>> 933249f (changed about me)
     'https://docs.google.com/document/d/1NPR6sz_GFbA7uH7jGNp5mHj_zes-eIwf/edit?usp=sharing&ouid=108278151473626848958&rtpof=true&sd=true',
   social: {
     linkedin: 'https://www.linkedin.com/in/basil-breton/',
