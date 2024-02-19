@@ -10,7 +10,23 @@ const about = {
   role: 'Full-Stack Developer',
   description:
   //something about working with hands and enjoying using that and translating it to doign kinda the same thing but with tech
-    'I bring a unique and different perspective to logical and human problems. Years of face to face interactions have sculpted my understanding of people, as well as my approach to logical solutions. Having worked with a wide variety of backgrounds, I am able to empathize and grow with my soft and hard skills, no matter the environment . ',
+    '🚴‍♂️ Bicycle Enthusiast Turned Software Engineer 🖥️
+
+Hello! I'm Basil Breton, a passionate individual who has traversed the dynamic landscapes of both the tech world and the world of bicycle mechanics. My professional journey is a story of transformation, resilience, and a deep commitment to continuous learning.
+
+🛠️ From IT Professional to Grease Monkey:
+In my earlier career, I thrived in the fast-paced realm of Information Technology, navigating through lines of code and troubleshooting digital landscapes. However, a desire for a hands-on, tangible connection with my work led me to a complete pivot. I traded in my keyboard for a wrench and immersed myself in the world of bicycle mechanics. The workshop became my new domain, where precision and craftsmanship collided with my love for the outdoors.
+
+🔧 Melding Gears and Code:
+My journey as a bicycle mechanic taught me the importance of attention to detail, problem-solving, and a commitment to excellence. These skills seamlessly translated into my current role as a Software Engineer. I discovered that the same precision used to fine-tune a bicycle can be applied to crafting efficient, elegant code. My experience in both realms has made me a versatile professional with a unique perspective.
+
+💡 Bridging the Gap:
+As a Software Engineer, I am passionate about creating solutions that bridge the digital and physical worlds. My experience allows me to understand not only the intricacies of software development but also the user experiences that can make or break a product. I bring a holistic approach to my work, constantly seeking innovative ways to merge my love for technology with the hands-on expertise gained from my time in the bicycle workshop.
+
+🚀 Let's Connect:
+Whether you're interested in discussing the latest tech trends, sharing cycling adventures, or exploring potential collaborations, I'm always open to connecting with like-minded individuals. Let's build bridges between the realms of IT and bicycle mechanics, creating a future where technology enhances every aspect of our lives.
+
+Thank you for visiting my profile. Let's ride the waves of innovation together! ',
   resume:
     'https://docs.google.com/document/d/1NPR6sz_GFbA7uH7jGNp5mHj_zes-eIwf/edit?usp=sharing&ouid=108278151473626848958&rtpof=true&sd=true',
   social: {
