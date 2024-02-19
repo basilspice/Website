@@ -13,8 +13,8 @@ const about = {
 
   "Hello! I'm Basil, a professional with a diverse journey that spans IT, bicycle mechanics, and now, software engineering. In my earlier career, I navigated the complexities of Information Technology, honing my problem-solving skills and code expertise. Seeking a hands-on experience, I transitioned to the world of bicycle mechanics, where precision and craftsmanship took center stage. Today, as a Software Engineer, I bring a unique blend of technical acumen and practical know-how. Let's connect and explore the exciting intersections of technology and craftsmanship!",
   resume:
-    'https://docs.google.com/document/d/1NPR6sz_GFbA7uH7jGNp5mHj_zes-eIwf/edit?usp=sharing&ouid=108278151473626848958&rtpof=true&sd=true',
-  social: {
+  'https://docs.google.com/document/d/e/2PACX-1vRjMnlfSLo3vAdIJm5Vbk2PycqWaBClVW55oe3axJcBZBNsh4crOKsGUr2QGY9D9Q/pub',
+    social: {
     linkedin: 'https://www.linkedin.com/in/basil-breton/',
     github: 'https://github.com/basilspice',
   },
