@@ -11,10 +11,10 @@ const about = {
   description:
     //something about working with hands and enjoying using that and translating it to doign kinda the same thing but with tech
 
-  "Hello! I'm Basil, a professional with a diverse journey that spans IT, bicycle mechanics, and now, software engineering. In my earlier career, I navigated the complexities of Information Technology, honing my problem-solving skills and code expertise. Seeking a hands-on experience, I transitioned to the world of bicycle mechanics, where precision and craftsmanship took center stage. Today, as a Software Engineer, I bring a unique blend of technical acumen and practical know-how. Let's connect and explore the exciting intersections of technology and craftsmanship!",
+    "Hello! I'm Basil, a seasoned professional whose career has taken intriguing turns. My IT roots equipped me with a love for problem-solving and a knack for code. Seeking a hands-on adventure, I embraced the world of bicycle mechanics, where precision and craftsmanship became my daily tools. Now, as a Software Engineer, I blend my tech background with the tactile expertise acquired in the workshop. Let's connect and explore how the fusion of gears and code can lead to innovative solutions and exciting possibilities!",
   resume:
-  'https://docs.google.com/document/d/e/2PACX-1vRjMnlfSLo3vAdIJm5Vbk2PycqWaBClVW55oe3axJcBZBNsh4crOKsGUr2QGY9D9Q/pub',
-    social: {
+    'https://docs.google.com/document/d/e/2PACX-1vRjMnlfSLo3vAdIJm5Vbk2PycqWaBClVW55oe3axJcBZBNsh4crOKsGUr2QGY9D9Q/pub',
+  social: {
     linkedin: 'https://www.linkedin.com/in/basil-breton/',
     github: 'https://github.com/basilspice',
   },
@@ -61,7 +61,7 @@ const projects = [
     name: 'Game Hub',
     description:
       'A react app using typescript that allows users to browse different games. Allow Users to search for games based off of; platform, rating, genre.',
-    stack: ['React-Native', 'TailwindCSS'],
+    stack: ['React', 'TailwindCSS'],
     sourceCode: 'https://github.com/basilspice/uber-clone',
     livePreview: 'https://github.com/basilspice/uber-clone',
   },
